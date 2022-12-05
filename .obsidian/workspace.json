@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "5876956e8d350190",
+    "type": "split",
+    "children": [
+      {
+        "id": "32ad9db97d0eaea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b15fa246da66821",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40cf2964ebbf6750",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba53950794cafb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "004d33762a4ee925",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fb9236c29c3b65d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f2bcf05bc28b894",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "79ada2d526baa120",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e90cbb9b316492e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "965a74064479a5d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c2dc3ba96bf0a04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ade0f072c514d4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53302131543acade",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5f2bcf05bc28b894",
+  "lastOpenFiles": [
+    "The Most Complete Starter Kit for MEGA V1.0.19.09.17.pdf",
+    "arduino.md",
+    "power.md",
+    "images/OhmsLaw.JPG",
+    "utilities.md",
+    "Sun Nov 06 14-41-10.jpg",
+    "Sun Nov 06 14-32-01.jpg",
+    "pixy2.md",
+    "Mon Nov 07 18-39-38.jpg",
+    "Mon Nov 07 15-16-21.jpg"
+  ]
+}
