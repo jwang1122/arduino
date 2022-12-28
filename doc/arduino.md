@@ -220,6 +220,9 @@ void send(int base1, int base2){
 ## MOSFET
 * []()
 
+## 双向可控硅
+[双向可控硅](https://www.youtube.com/watch?v=dDnrBdBSQNQ&ab_channel=%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF)
+
 ### Arduino UNO
 ![](images/ArduinoUno.png)
 
