@@ -179,6 +179,9 @@ void send(int base1, int base2){
   delay(500);
 }
 ```
+## 无稳态震荡电路
+![](images/oscillation.png)
+
 ## 编码器
 * [编码器 电子元件从零到精通](https://www.youtube.com/watch?v=ujnzk0brDeI)
 
