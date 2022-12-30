@@ -223,6 +223,11 @@ void send(int base1, int base2){
 ## MOSFET
 * []()
 
+## 从零开始
+[C33电子设计从零开始套件](https://www.youtube.com/watch?v=oYEAW6JKq38&list=PLjS7m1WwI7aeKsOO10qUeRC5BLlMijAJt&ab_channel=%E7%94%B5%E8%B7%AF%E9%A3%9E%E7%BF%94)
+[光控电路](https://www.youtube.com/watch?v=m6HPeJWW_R4&list=PLjS7m1WwI7aeKsOO10qUeRC5BLlMijAJt&index=12&ab_channel=%E7%94%B5%E8%B7%AF%E9%A3%9E%E7%BF%94)
+
+
 ## 双向可控硅
 [双向可控硅](https://www.youtube.com/watch?v=dDnrBdBSQNQ&ab_channel=%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF)
 
@@ -307,3 +312,7 @@ NE555P[https://www.youtube.com/watch?v=ABWU7FlM1T0](https://www.youtube.com/watc
 非常好的想法，使用car jumper制作spot welder [https://www.youtube.com/watch?v=Hj8rmWS5iqE](https://www.youtube.com/watch?v=Hj8rmWS5iqE)
 
 [DUMMY ROBOTIC ARM from scratch](https://www.youtube.com/watch?v=F29vrvUwqS4&ab_channel=%E7%A8%9A%E6%99%96%E5%90%9B)
+[LED Displays with Arduino - 7-Segment & Dot-Matrix](https://www.youtube.com/watch?v=6XY9PooMrms&ab_channel=DroneBotWorkshop)
+[](https://www.youtube.com/watch?v=9Zwq_nTTp7U&ab_channel=KendinYap)
+[伺服电机起重机](https://www.youtube.com/watch?v=B2lwaLmHDEI&ab_channel=RobotUNO)
+[How Do Computers Remember?](https://www.youtube.com/watch?v=I0-izyq6q5s&ab_channel=SebastianLague)
