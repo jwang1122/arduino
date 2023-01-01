@@ -122,6 +122,8 @@ RXD: Received Data
 * [Passive buzzer make C-D-E-F-G-A-B-C Sound](passive_buzzer/passive_buzzer.ino)
 * [](passive_buzzer/pitches/pitches.h)
 
+## Tilt Ball Switch
+
 ## Servo Motor
 ![](images/servo.svg)
 * [Control servo motor](servo/servo.ino)
@@ -224,7 +226,7 @@ void send(int base1, int base2){
 [C33电子设计从零开始套件](https://www.youtube.com/watch?v=oYEAW6JKq38&list=PLjS7m1WwI7aeKsOO10qUeRC5BLlMijAJt&ab_channel=%E7%94%B5%E8%B7%AF%E9%A3%9E%E7%BF%94)
 [光控电路](https://www.youtube.com/watch?v=m6HPeJWW_R4&list=PLjS7m1WwI7aeKsOO10qUeRC5BLlMijAJt&index=12&ab_channel=%E7%94%B5%E8%B7%AF%E9%A3%9E%E7%BF%94)
 
-
+[Top 5 Useful Electronics Projects use NE555 Timer ic](https://www.youtube.com/watch?v=ZdHsxKY5C7c&ab_channel=ZAFERYILDIZ)
 ### Arduino UNO
 ![](images/ArduinoUno.png)
 
@@ -234,6 +236,8 @@ void send(int base1, int base2){
 ### 示波器
 * [示波器测量开关电源](https://www.youtube.com/watch?v=uSTa-e5N1tY)
 
+## 简单直流升压电路
+ [简单直流升压电路](https://www.youtube.com/watch?v=R9hT61IMgII&ab_channel=%E9%A3%9E%E5%A4%9A)
 
 ## Reference
 * [DroneBot Workshop website](https://dronebotworkshop.com/)
@@ -310,3 +314,13 @@ NE555P[https://www.youtube.com/watch?v=ABWU7FlM1T0](https://www.youtube.com/watc
 [](https://www.youtube.com/watch?v=9Zwq_nTTp7U&ab_channel=KendinYap)
 [伺服电机起重机](https://www.youtube.com/watch?v=B2lwaLmHDEI&ab_channel=RobotUNO)
 [How Do Computers Remember?](https://www.youtube.com/watch?v=I0-izyq6q5s&ab_channel=SebastianLague)
+
+
+## TODO LIST
+* ~~blink~~
+* ~~LED~~
+* ~~RGB LED~~ Not what you expected colors.
+* ~~Digital Input~~
+* ~~Active Buzzer~~
+* ~~Passive Buzzer~~
+* ~~Tilt Ball Switch~~

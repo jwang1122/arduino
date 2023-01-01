@@ -1,5 +1,5 @@
 
-// the setup function runs once when you press reset or power the board
+// this program make 2 LEDs take turn blink.
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   // pinMode(LED_BUILTIN, OUTPUT);
@@ -12,9 +12,9 @@ void setup() {
 void loop() {
   // digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   digitalWrite(12, HIGH);   // turn the LED on (HIGH is the voltage level)
-  digitalWrite(11, LOW);   // turn the LED on (HIGH is the voltage level)
+  digitalWrite(11, LOW);   // turn the LED off (LOW is the voltage level)
   delay(500);                       // wait for a second
   digitalWrite(12, LOW);    // turn the LED off by making the voltage LOW
-  digitalWrite(11, HIGH);    // turn the LED off by making the voltage LOW
+  digitalWrite(11, HIGH);    // turn the LED on by making the voltage HIGH
   delay(500);                       // wait for a second
 }
