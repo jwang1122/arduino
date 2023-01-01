@@ -181,6 +181,9 @@ void send(int base1, int base2){
   delay(500);
 }
 ```
+## 无稳态震荡电路
+![](images/oscillation.png)
+
 ## 编码器
 * [编码器 电子元件从零到精通](https://www.youtube.com/watch?v=ujnzk0brDeI)
 
@@ -226,7 +229,14 @@ void send(int base1, int base2){
 [C33电子设计从零开始套件](https://www.youtube.com/watch?v=oYEAW6JKq38&list=PLjS7m1WwI7aeKsOO10qUeRC5BLlMijAJt&ab_channel=%E7%94%B5%E8%B7%AF%E9%A3%9E%E7%BF%94)
 [光控电路](https://www.youtube.com/watch?v=m6HPeJWW_R4&list=PLjS7m1WwI7aeKsOO10qUeRC5BLlMijAJt&index=12&ab_channel=%E7%94%B5%E8%B7%AF%E9%A3%9E%E7%BF%94)
 
+<<<<<<< HEAD
 [Top 5 Useful Electronics Projects use NE555 Timer ic](https://www.youtube.com/watch?v=ZdHsxKY5C7c&ab_channel=ZAFERYILDIZ)
+=======
+
+## 双向可控硅
+[双向可控硅](https://www.youtube.com/watch?v=dDnrBdBSQNQ&ab_channel=%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF)
+
+>>>>>>> 454fc559ab0e9750ad83764896b4d0c77bdc3c8e
 ### Arduino UNO
 ![](images/ArduinoUno.png)
 
